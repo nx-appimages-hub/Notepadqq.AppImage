@@ -1,1 +1,1 @@
-# NoSQLBooster4Mongo.AppImage
+# Notepadqq.AppImage
